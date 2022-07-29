@@ -13,9 +13,9 @@ const Home: NextPage = () => {
       </Head>
 
       <main className={styles.main}>
-        <h2 className={styles.title}>
-          <a href="https://nextjs.org">Next.js - DevOps by GitHub Actions + Pages</a>
-        </h2>
+        <h3 className={styles.title}>
+          <a href="https://nextjs.org">Next.js - DevOps by GitHub Actions and Pages</a>
+        </h3>
 
         <p className={styles.description}>
           Get started by editing{' '}
