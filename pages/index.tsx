@@ -14,7 +14,7 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <h3 className={styles.title}>
-          <a href="https://nextjs.org">Next.js - DevOps by GitHub Actions and Pages</a>
+          <a href="https://nextjs.org">Next.js - DevOps by GitHub Actions + Pages</a>
         </h3>
 
         <p className={styles.description}>
@@ -68,5 +68,7 @@ const Home: NextPage = () => {
     </div>
   )
 }
+ export default Home
 
-export default Home
+ 
+
