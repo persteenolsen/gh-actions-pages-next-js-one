@@ -19,7 +19,7 @@ const Home: NextPage = () => {
 
         <p className={styles.description}>
 		
-		 <b>Last updated: </b>15-02-2024<br /><br />
+		 <b>Last updated: </b>17-08-2024<br /><br />
 		 
           Get started by editing{' '}
           <code className={styles.code}>pages/index.tsx</code>
