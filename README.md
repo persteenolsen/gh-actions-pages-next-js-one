@@ -1,5 +1,9 @@
 ## Deploying Next.js to GitHub Pages using GitHub Actions
 
+Last updated: 01-12-2024
+
+Node Version 20 at GH Actions
+
 - This Next.js Web App is a default starter by create next app using TypeScript
 - DevOps by GitHub Actions and Pages
 - Hosted at GitHub Pages
